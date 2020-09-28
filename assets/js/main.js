@@ -1,3 +1,76 @@
+//My modal config
+//Modal-1
+$(document).ready(function(){
+  $("#myBtn_m_1").click(function(){
+    $("#myModal").modal();
+  });
+	  $("#myBtn_m_2").click(function(){
+    $("#myModal").modal();
+  });
+	  $("#myBtn_m_3").click(function(){
+    $("#myModal").modal();
+  });
+});
+//Modal-2
+$(document).ready(function(){
+  $("#myBtn2_m_1").click(function(){
+    $("#myModal_2").modal();
+  });
+	  $("#myBtn2_m_2").click(function(){
+    $("#myModal_2").modal();
+  });
+	  $("#myBtn2_m_3").click(function(){
+    $("#myModal_2").modal();
+  });
+});
+//Modal-3
+$(document).ready(function(){
+  $("#myBtn3_m_1").click(function(){
+    $("#myModal_3").modal();
+  });
+	  $("#myBtn3_m_2").click(function(){
+    $("#myModal_3").modal();
+  });
+	  $("#myBtn3_m_3").click(function(){
+    $("#myModal_3").modal();
+  });
+});
+//Modal-4
+$(document).ready(function(){
+  $("#myBtn4_m_1").click(function(){
+    $("#myModal_4").modal();
+  });
+	  $("#myBtn4_m_2").click(function(){
+    $("#myModal_4").modal();
+  });
+	  $("#myBtn4_m_3").click(function(){
+    $("#myModal_4").modal();
+  });
+});
+//Modal-5
+$(document).ready(function(){
+  $("#myBtn5_m_1").click(function(){
+    $("#myModal_5").modal();
+  });
+	  $("#myBtn5_m_2").click(function(){
+    $("#myModal_5").modal();
+  });
+	  $("#myBtn5_m_3").click(function(){
+    $("#myModal_5").modal();
+  });
+});
+//Modal-6
+$(document).ready(function(){
+  $("#myBtn6_m_1").click(function(){
+    $("#myModal_6").modal();
+  });
+	  $("#myBtn6_m_2").click(function(){
+    $("#myModal_6").modal();
+  });
+	  $("#myBtn6_m_3").click(function(){
+    $("#myModal_6").modal();
+  });
+});
 /**
 * Template Name: Baker - v2.1.0
 * Template URL: https://bootstrapmade.com/baker-free-onepage-bootstrap-theme/

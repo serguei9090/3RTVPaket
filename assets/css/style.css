@@ -21,7 +21,36 @@ margin-left: 5em;
   background: #ffc107;
 	color: #fff;
 }
+.d-block{
+	display: block!important;
+	max-width: 100%;
+	max-height: auto;
+}
+.card-block {
+    font-size: 1em;
+    position: relative;
+    margin: 0;
+    padding: 1em;
+    border: none;
+    border-top: 1px solid rgba(34, 36, 38, .1);
+    box-shadow: none;
+     
+}
 
+.carousel_btn {
+	border: none;
+	padding: inherit;
+}
+
+.card {
+    font-size: 1em;
+    overflow: hidden;
+    padding: 5;
+    border: none;
+    border-radius: .28571429rem;
+    box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+    margin-top:20px;
+}
 /**
 * Template Name: Baker - v2.1.0
 * Template URL: https://bootstrapmade.com/baker-free-onepage-bootstrap-theme/
